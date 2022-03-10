@@ -1,0 +1,16 @@
+D:\.Net\CoinFlip\CoinFlip\bin\Debug\net5.0\CoinFlip.exe
+D:\.Net\CoinFlip\CoinFlip\bin\Debug\net5.0\CoinFlip.deps.json
+D:\.Net\CoinFlip\CoinFlip\bin\Debug\net5.0\CoinFlip.runtimeconfig.json
+D:\.Net\CoinFlip\CoinFlip\bin\Debug\net5.0\CoinFlip.runtimeconfig.dev.json
+D:\.Net\CoinFlip\CoinFlip\bin\Debug\net5.0\CoinFlip.dll
+D:\.Net\CoinFlip\CoinFlip\bin\Debug\net5.0\CoinFlip.pdb
+D:\.Net\CoinFlip\CoinFlip\obj\Debug\net5.0\CoinFlip.csproj.AssemblyReference.cache
+D:\.Net\CoinFlip\CoinFlip\obj\Debug\net5.0\CoinFlip.GeneratedMSBuildEditorConfig.editorconfig
+D:\.Net\CoinFlip\CoinFlip\obj\Debug\net5.0\CoinFlip.AssemblyInfoInputs.cache
+D:\.Net\CoinFlip\CoinFlip\obj\Debug\net5.0\CoinFlip.AssemblyInfo.cs
+D:\.Net\CoinFlip\CoinFlip\obj\Debug\net5.0\CoinFlip.csproj.CoreCompileInputs.cache
+D:\.Net\CoinFlip\CoinFlip\obj\Debug\net5.0\CoinFlip.dll
+D:\.Net\CoinFlip\CoinFlip\obj\Debug\net5.0\refint\CoinFlip.dll
+D:\.Net\CoinFlip\CoinFlip\obj\Debug\net5.0\CoinFlip.pdb
+D:\.Net\CoinFlip\CoinFlip\obj\Debug\net5.0\CoinFlip.genruntimeconfig.cache
+D:\.Net\CoinFlip\CoinFlip\obj\Debug\net5.0\ref\CoinFlip.dll
